@@ -1,3 +1,3 @@
-Bleach
-Tate no Yusha
-Lost Canvas
+Bleach<br/>
+Tate no Yusha<br/>
+Lost Canvas<br/>
